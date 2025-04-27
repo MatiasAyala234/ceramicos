@@ -195,11 +195,11 @@
     text-align: justify;
   }
 .card {
-    justify-content: center;
+    justify-content:end;
     margin-left: 5%;
     margin-right: 5%;
     display: inline-block;
-    top: 50px;
+    top: 50000px;
     max-height: 80%;
     max-width: 80%;
     margin-bottom: 50px;
